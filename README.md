@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Muhammed Sarajlić
+# Hi there 👋, My name is Muhammed Sarajlić
 - 👨‍🏫 A third-year student of software engineering
 - 📖 I’m learning ASP.NET
 - 🔭 I’m currently working on my game
