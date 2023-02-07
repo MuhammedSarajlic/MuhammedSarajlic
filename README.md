@@ -3,7 +3,7 @@
 - 📖 I’m learning ASP.NET
 - 🔭 I’m currently working on my game
 
-## Skils
+## Skills
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,ts,html,css,cpp,dotnet,tailwind,mongodb,firebase,git,github,vscode)](https://skillicons.dev)
