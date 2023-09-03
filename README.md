@@ -1,5 +1,7 @@
 ## Hi there 👋, My name is Muhammed Sarajlić
-- 👨‍🏫 A third-year student of software engineering
+- 🚀 Software Engineering Student
+- 💻 Full-Stack Developer
+- 🌐 Web App Creator
 
 ## Skills
 
