@@ -4,7 +4,7 @@
 ## Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,ts,cpp,mongodb,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,spring,cpp,postgresql,mongodb,git,github)](https://skillicons.dev)
 </br></br>
 ## Github stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MuhammedSarajlic&show_icons=true&theme=radical" />
